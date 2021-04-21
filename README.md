@@ -1,4 +1,4 @@
-# MonoGameDeveloper
+# AI-Fitness by MonoGameDeveloper
 
     import pyttsx3
     import speech_recognition as sr
